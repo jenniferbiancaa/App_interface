@@ -1,0 +1,4 @@
+#Tue May 02 12:17:36 GFT 2023
+base.0=C\:\\Users\\allan\\Dev Alan\\ecommecer\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
